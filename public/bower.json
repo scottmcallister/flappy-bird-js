@@ -1,0 +1,18 @@
+{
+  "name": "flappy-bird-js",
+  "homepage": "https://github.com/scottmcallister/flappy-bird-js",
+  "authors": [
+    "Scott McAllister <mr.scott.mcallister@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
