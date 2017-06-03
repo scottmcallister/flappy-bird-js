@@ -16,7 +16,7 @@ $ npm install
 $ npm start
 ```
 
-The app should be running on `localhost:8080`
+The app should be running on `localhost:3000`
 
 ## Built With
 
