@@ -1,0 +1,13 @@
+body {
+    background: #00b58e;
+}
+
+h1, p {
+    text-align: center;
+    font-family: 'Arial';
+    color: #ffffff;
+}
+
+canvas {
+    margin: auto;
+}
