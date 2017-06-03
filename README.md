@@ -1,6 +1,6 @@
 # flappy-bird-js
 
-A flappy bird clone for the web built with the Phaser game engine based on (this tutorial)[http://www.lessmilk.com/tutorial/flappy-bird-phaser-1].
+A flappy bird clone for the web built with the Phaser game engine based on [this tutorial](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1).
 
 
 ### Prerequisites
